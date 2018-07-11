@@ -13,7 +13,7 @@ The viewers are hosted in the cdn.hypothes.is S3 bucket and are publicly accessi
 1. Follow the steps at https://gist.github.com/JCCR/105b17e9d10f26722a24e1c6678f9ae4 to check out
    Readium JS and create a build with Hypothesis enabled.
 
-   Check out the `hypothesis-demo` branch in the submodules `readium-js-viewer`,
+   Check out the `master` branch in the submodules `readium-js-viewer`,
    `readium-js` and `readium-shared-js`. See [Slack
    chat](https://annotating.slack.com/archives/C5CE202DT/p1505751892000282)
 
